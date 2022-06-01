@@ -17,7 +17,7 @@ Pemangkatan
 Sisa Hasil Bagi
 Faktorial
 
-Cara Menggunakan
+Cara Menggunakan :
 Download Visual Studio 
 Download Code
 Klik .sln

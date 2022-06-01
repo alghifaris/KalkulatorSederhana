@@ -1,0 +1,12 @@
+c:\users\0264\documents\visual studio 2015\Projects\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe.config
+c:\users\0264\documents\visual studio 2015\Projects\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe
+c:\users\0264\documents\visual studio 2015\Projects\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.pdb
+c:\users\0264\documents\visual studio 2015\Projects\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.exe
+c:\users\0264\documents\visual studio 2015\Projects\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.pdb
+C:\Users\0264\Documents\GitHub\KalkulatorSederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe.config
+C:\Users\0264\Documents\GitHub\KalkulatorSederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe
+C:\Users\0264\Documents\GitHub\KalkulatorSederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.pdb
+C:\Users\0264\Documents\GitHub\KalkulatorSederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.AssemblyReference.cache
+C:\Users\0264\Documents\GitHub\KalkulatorSederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\0264\Documents\GitHub\KalkulatorSederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.exe
+C:\Users\0264\Documents\GitHub\KalkulatorSederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.pdb

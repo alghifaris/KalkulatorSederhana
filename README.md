@@ -1,10 +1,12 @@
 # KalkulatorSederhana
-# Csharp
-# C#
-# Kalkulator
+Csharp
+C#
+Kalkulator
 
-# Visual Studio
-# Console Application 
+Visual Studio
+Console Application 
+
+Program Console Application Kalkulator Sederhana Menggunakan Visual Studio dengan bahasa Pemograman C# 
 
 isi Kalkulator Sederhana
 Penambahan

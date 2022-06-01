@@ -19,5 +19,5 @@ Faktorial
 
 Cara Menggunakan :
 Download Visual Studio 
-Download Code
-Klik .sln
+, Download Code
+, Klik .sln

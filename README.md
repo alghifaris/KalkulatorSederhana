@@ -16,3 +16,7 @@ Pembagian
 Pemangkatan
 Sisa Hasil Bagi
 Faktorial
+
+Download Visual Studio 
+Download Code
+Klik .sln

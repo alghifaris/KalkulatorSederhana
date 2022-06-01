@@ -3,7 +3,7 @@ Csharp
 C#
 Kalkulator
 
-Visual Studio
+Microsoft Visual Studio
 Console Application 
 
 Program Console Application Kalkulator Sederhana Menggunakan Visual Studio dengan bahasa Pemograman C# 
@@ -18,6 +18,6 @@ Sisa Hasil Bagi
 Faktorial
 
 Cara Menggunakan :
-Download Visual Studio 
-, Download Code
+Download Microsoft Visual Studio 
+, Clode Code
 , Klik .sln
